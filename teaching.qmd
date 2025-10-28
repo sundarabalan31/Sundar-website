@@ -1,0 +1,38 @@
+---
+page-layout: full
+class: teaching-page
+format:
+  html:
+    theme: trestles
+    css: styles.css
+    toc: false
+---
+
+<h1 style="text-align:center;color:#003366">
+
+Teaching
+
+</h1>
+
+## Teaching Experience
+
+**University of Massachusetts Boston, USA (2025)**\
+*Teaching Assistant* – Kelp Remote Sensing Lab for undergraduate students, Department of Biology.
+
+**NIT Calicut, India (2015)**\
+*Adhoc Faculty* – Taught *Digital Image Processing* for Master’s students, Department of Electronics & Communication Engineering.
+
+**IIIT Kurnool, India (2015)**\
+*Visiting Faculty* – Taught *Basic Electrical Engineering* for undergraduate students.
+
+## Mentorship
+
+-   *2025 – Present:* Mentor for Ph.D. student **Nivedita Priyadarshini**, Department of Geosciences, Virginia Tech, USA.\
+-   *2023:* Mentor for **Sandhani**, Ph.D. student, Department of Ocean Engineering, IIT Madras.\
+-   *2020 – 2025:* Guided undergraduate and internship projects in **satellite image processing** and **machine learning** at GeoSI, Trivandrum.
+
+## Workshops & Guest Lectures
+
+-   *Mar 2024:* **Fundamentals of Machine Learning and Its Applications in Ocean Color Remote Sensing**, Kalasalingam University, India.\
+-   *Dec 2024:* **Integrated Remote Sensing and Radiative Transfer Modeling Framework**, IIT Madras, India.\
+-   *2023–2019:* Delivered guest lectures at VIT Chennai, Saveetha University, and other institutions on **Aquatic Remote Sensing** and **Image Processing for Ocean Applications**.

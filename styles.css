@@ -1,0 +1,106 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f9fb;
+  color: #222;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 40px;
+  background: linear-gradient(to right, #e6f0fa, #f8fbff);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+p a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+.navbar {
+  min-height: 90px ;  
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.navbar {
+  background-color: #003366 !important;   /* change this color */
+}
+
+/* Navbar link color */
+.navbar a, .navbar-nav .nav-link {
+  color: white !important;
+  font-weight: 500;
+}
+
+/* Hover effect */
+.navbar a:hover, .navbar-nav .nav-link:hover {
+  color: #ffcc00 !important;  
+}
+
+.teaching-page {
+  color: #e0e0e0;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px 60px;
+  border-radius: 12px;
+}
+
+.teaching-title {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: ;
+  margin-bottom: 30px;
+}
+
+.teaching-page h2 {
+  color: #003366 ;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+  padding-bottom: 5px;
+  margin-top: 30px;
+  font-weight: 600;
+}
+
+.teaching-page strong {
+  color: #fff;
+}
+
+.teaching-page em {
+  color: #b0c4de;
+}
+
+.teaching-page ul, 
+.teaching-page p, 
+.teaching-page li {
+  color: #eaeaea;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.teaching-page hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  margin: 25px 0;
+}

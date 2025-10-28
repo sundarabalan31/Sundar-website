@@ -1,0 +1,24 @@
+---
+about:
+  template: trestles
+  image: images/profile1.jpg
+---
+
+Dr. S. V. Balasubramanian is a **remote sensing scientist** specializing in **ocean satellite remote sensing** and **aquatic optics**.  
+He is currently a **Postdoctoral Fellow** in the Department of Biology at the **University of Massachusetts Boston**, where he focuses on hyperspectral modeling of kelp forests and machine learning frameworks for water-quality retrieval.
+
+Previously, he served as a **Postdoctoral Fellow** at **NASA Goddard Space Flight Center (UMD)** and **GESTAR-II, UMBC**, contributing to radiative-transfer modeling and satellite image analysis.  
+He received his **Ph.D. in Ocean Engineering** from **IIT Madras**, India.
+
+## Education
+
+**Ph.D.**, Ocean Engineering – IIT Madras, India (2015)  
+**M.E.**, Digital Communication Engineering – Anna University (2007)  
+**B.E.**, Electronics and Communication Engineering – Anna University (2005)
+
+## Experience
+
+**Postdoctoral Fellow**, UMass Boston (2025 – Present)  
+**Postdoctoral Fellow**, NASA GSFC / UMD (2017 – 2019)  
+**Remote Sensing Scientist**, GeoSensing and Imaging Consultancy (2020 – 2025)  
+**Software Engineer**, Sheeba Computers, Bangalore (2007 – 2009)
