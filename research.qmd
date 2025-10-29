@@ -29,22 +29,3 @@ page-layout: full
   </p>
 </div>
 
-<!-- ===== Research Project 3 ===== -->
-<div style="text-align: center;">
-  <img src="images/research4.jpg" alt="Aquaverse Framework" width="280">
-  <h4 style="margin-top: 10px;">Aquaverse: Atmospheric Correction Framework</h4>
-  <p style="max-width: 280px; margin: auto;">
-    Designing a deep learning–based atmospheric correction system for inland and coastal water reflectance retrievals. 
-    <br><i>(Collaboration: NASA & IOCCG)</i>
-  </p>
-</div>
-<div style="text-align: center;">
-  <img src="images/research4.jpg" alt="Aquaverse Framework" width="280">
-  <h4 style="margin-top: 10px;">Aquaverse: Atmospheric Correction Framework</h4>
-  <p style="max-width: 280px; margin: auto;">
-    Designing a deep learning–based atmospheric correction system for inland and coastal water reflectance retrievals. 
-    <br><i>(Collaboration: NASA & IOCCG)</i>
-  </p>
-</div>
-
-</div>

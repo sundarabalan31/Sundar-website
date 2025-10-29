@@ -2,13 +2,33 @@
 page-layout: full
 format:
   html:
-    theme: trestles
-    css: styles.css
+    theme: flatly
     toc: false
+    css: styles.css
 ---
 
-<h1 style="text-align:center;color:#003366">Publications List</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+<h1 style="text-align:center;color:#003366">Publications</h1>
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Reports</h2>
+
+-  **IOCCG (2025).**  
+Intercomparison of Atmospheric Correction Algorithms Over Optically Complex Waters. 
+Jamet, C., and Balasubramanian, S.V. (eds.), Reports of the International Ocean-Colour Coordinating Group, No. 21, Dartmouth, Canada. 
+ [IOCCG Report](https://ioccg.org)
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Published Datasets</h2>
+-  **Werther, M., Gurlin, D., Burggraaff, O., & Balasubramanian, S.V. (2025).**  
+  On the generalization ability of probabilistic neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.[DOI:10.5281/zenodo.14893798](https://doi.org/10.5281/zenodo.14893798)
+
+-  **Lehmann, M. K., Gurlin, D., Pahlevan, N., Alikas, K., Anstee, J. M., Balasubramanian, S.V., et al. (2022).**  
+  GLORIA - A global dataset of remote sensing reflectance and water quality from inland and coastal waters.[DOI:10.1594/PANGAEA.948492](https://doi.org/10.1594/PANGAEA.948492)
+
+
+<h2 style="font-size:22px; color:#003366; margin-top:35px;">Refereed Publications</h2>
 1. Werther, M., Burggraaff, O., Gurlin, D., Saranathan, A. M., **Balasubramanian, S.V.**, et al. (2025). *On the generalization ability of neural networks for hyperspectral remote sensing of absorption properties across optically complex waters.* **Remote Sensing of Environment**, 328.  
 2. **Balasubramanian, S.V.**, et al. (2025). *Mixture density networks for reconstructing historical ocean-color products over inland and coastal waters: Demonstration and validation.* **Frontiers in Remote Sensing**, 6.  
 3. Saranathan, A.M., Pahlevan, N., Werther, M., Odermatt, D., **Balasubramanian, S.V.** (2024). *Assessment of probabilistic neural networks for the dual estimation of water quality indicators and uncertainties from multi- and hyperspectral observations.* **Frontiers in Remote Sensing**, 5.  
@@ -29,3 +49,11 @@ format:
 18. Shanmugam, P., Suresh, M., **Balasubramanian, S.V.** (2013). *OSABT: An innovative algorithm to detect and characterize ocean surface algal blooms.* **IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.**, 6, 1879–1892.  
 19. Shanmugam, P., **Balasubramanian, S.V.**, Ahn, Y.H., Ryu, J.H. (2011). *A new inversion model to retrieve the particulate backscattering in coastal/ocean waters.* **IEEE Trans. Geosci. Remote Sens.**, 49, 2463-2474.  
 20. Shanmugam, P., Ahn, Y.H., Ryu, J.H., **Balasubramanian, S.V.** (2010). *An evaluation of inversion models for retrieval of inherent optical properties from ocean color in coastal and open sea waters around Korea.* **Journal of Oceanography**, 66, 815-830.
+
+
+<div style="text-align:center; margin-bottom:20px;">
+  <a href="https://scholar.google.com/citations?user=-_-rEs0AAAAJ" target="_blank" class="btn-scholar">
+    <i class="fa-solid fa-graduation-cap"></i> View on Google Scholar
+  </a>
+</div>
+
